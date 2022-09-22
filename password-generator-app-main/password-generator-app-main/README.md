@@ -1,7 +1,3 @@
-# Frontend Mentor - Password generator app solution
-
-This is a solution to the [Password generator app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/password-generator-app-Mr8CLycqjh). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
-
 ## Table of contents
 
 - [Overview](#overview)
@@ -29,9 +25,6 @@ Users should be able to:
 
 ![Screenshot](./screenshot.png)
 
-### Links
-
-- Live Site URL: [https://crsimpson5.github.io/password-generator-app/](https://crsimpson5.github.io/password-generator-app/)
 
 ## My process
 
@@ -39,7 +32,6 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
 - CSS Grid
 - Sass
 
